@@ -1,4 +1,4 @@
-document.getElementById('btn-apply').onclick = function() {
+document.getElementById('btn-apply1').onclick = function() {
     document.getElementById('modal').classList.remove('doNotShow');
     document.getElementById('modal').classList.add('modal');
   }
