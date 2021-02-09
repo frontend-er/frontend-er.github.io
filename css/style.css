@@ -123,6 +123,10 @@
   margin: 0 auto;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .header {
   position: -webkit-sticky;
   position: sticky;
@@ -890,7 +894,7 @@
   }
 
   .container .btn-apply {
-    margin-top: -40px;
+    margin-top: -140px;
     margin-left: 200px;
   }
 
